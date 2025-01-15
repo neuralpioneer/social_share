@@ -1,4 +1,4 @@
-group 'com.shekarmudaliyar.social_share'
+// group 'com.shekarmudaliyar.social_share'
 version '1.0-SNAPSHOT'
 
 buildscript {
